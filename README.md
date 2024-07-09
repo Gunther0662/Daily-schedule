@@ -14,16 +14,28 @@ My Url will be located in my GitHub account which will lead to my repository. As
 
 ## Usage
 
-
+![Daily-Schedule](image.png)
 
 ## Credits
 
+THank you to W3School for providing code that enable some of the fuctions that were implemanted to this webpage.
+
 ## License
+
+License is provided my MIT License.
 
 ## Badges
 
+N/A
+
 ## Features
+
+N/A
 
 ## How to Contribute
 
+N/A
+
 ## Test
+
+N/A
